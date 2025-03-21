@@ -1,0 +1,9 @@
+#+title: Xiaoxing Hu
+
+Hi. You found me. What do you want?
+
+#+begin_export html
+<a href='mailto:hi@huxiaoxing.com' type='button' class='nes-btn is-primary'>
+Send an email
+</a>
+#+end_export
